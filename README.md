@@ -2,6 +2,8 @@
 
 A drag-and-drop GPA planner built with Next.js. It helps students organize courses by term, estimate cumulative GPA and major GPA, visualize grade trends, and move planner data between browsers with JSON import and export.
 
+[Demo](https://test.chaosq3q.win/)
+
 ## Features
 
 - Drag course cards between semester zones
